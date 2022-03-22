@@ -854,7 +854,7 @@ hexo-pagination@1.0.0:
 
 hexo-render-pug@^2.1.4:
   version "2.1.4"
-  resolved "https://registry.npmjs.org/hexo-render-pug/-/hexo-render-pug-2.1.4.tgz"
+  resolved "https://registry.yarnpkg.com/hexo-render-pug/-/hexo-render-pug-2.1.4.tgz#f75a7c8966c1c3315caeb73ffa3bf6f3acea3299"
   integrity sha512-i5o+PqOf/hUU4B3ffQwD0egADgMwsU4vGKSM+LoUSlAhSDO4srOj8owlGAA+Vr76/tmNUR7BClSX8tSyEAHQuw==
   dependencies:
     pug "^2.0.3"
@@ -878,7 +878,7 @@ hexo-renderer-marked@^5.0.0:
 
 hexo-renderer-stylus@^2.0.1:
   version "2.0.1"
-  resolved "https://registry.npmjs.org/hexo-renderer-stylus/-/hexo-renderer-stylus-2.0.1.tgz"
+  resolved "https://registry.yarnpkg.com/hexo-renderer-stylus/-/hexo-renderer-stylus-2.0.1.tgz#c65566e97e9058a52e46c82b0c45cf561f4b94cb"
   integrity sha512-1S4AG8RtzWqVrqKIYv2AJ4UYms5SHDjkdYS7IiGwgUejL24agbTktpAbnH2cG1JWZ15SRqYN0UGB9aAoSAgvEA==
   dependencies:
     nib "^1.1.2"
