@@ -13,6 +13,7 @@
   # Link: /link/ || fas fa-link
   # About: /about/ || fas fa-heart
 menu:
+  # 搜索: /search || fas fa-search fa-fw
   首页: / || fas fa-home
   时间轴: /archives/ || fas fa-archive
   标籤: /tags/ || fas fa-tags
@@ -61,7 +62,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
 
 # Math (數學)
 # --------------------------------------
